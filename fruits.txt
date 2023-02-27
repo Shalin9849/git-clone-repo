@@ -1,5 +1,10 @@
 apple
-orange
-straberry
 banana 
 grapes
+ladies finger
+tomato
+potato
+brinjal
+carrot
+beatroot
+
